@@ -5,6 +5,7 @@
 
 💡 I’m an innovative software developer, automation engineer, and systems architect with expertise in:
 	•	Python Development → Custom tooling, automation, AI, and backend systems.
+  *Linux & Virtualization → Longtime Arch Linux user (since 2004), experienced with Ubuntu, KVM/QEMU, virsh, Hetzner root servers, and multi-cloud environments.
 	•	Terminal UI (TUI) Development → Creator of prints_charming, a Pythonic toolkit for enhancing terminal interfaces.
 	•	AI & Machine Learning → Built an 80K+ LOC DeFi bot with an automated ML training pipeline.
 	•	Automation & DevOps → Self-hosted workflows, Linux automation, and security optimization.
