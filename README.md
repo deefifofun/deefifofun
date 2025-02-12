@@ -11,6 +11,8 @@
 	•	Cybersecurity & Ethical Hacking → Built security tools and a blockchain authentication system.
 	•	Entrepreneurship & Product Development → Previously ran a cosmetics manufacturing business, handling everything from formulation to branding and marketing, b2b and b2c sales, website/ecommerce, and graphic design across the product line.
 
+ Operated a data recovery service, performing software and advanced hardware-level repairs for compromised or failing drives/phones.
+
 🔬 What I’m Currently Working On
 
 🌟 Expanding prints_charming → Enhancing TUI capabilities, automation, and interactive tools.
