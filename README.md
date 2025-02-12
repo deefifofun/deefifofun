@@ -9,7 +9,7 @@
 	•	AI & Machine Learning → Built an 80K+ LOC DeFi bot with an automated ML training pipeline.
 	•	Automation & DevOps → Self-hosted workflows, Linux automation, and security optimization.
 	•	Cybersecurity & Ethical Hacking → Built security tools and a blockchain authentication system.
-	•	Entrepreneurship & Product Development → Previously ran a cosmetics manufacturing business, handling everything from formulation to branding and marketing.
+	•	Entrepreneurship & Product Development → Previously ran a cosmetics manufacturing business, handling everything from formulation to branding and marketing, b2b and b2c sales, website/ecommerce, and graphic design across the product line.
 
 🔬 What I’m Currently Working On
 
