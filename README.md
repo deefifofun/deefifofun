@@ -3,16 +3,16 @@
 
 🚀 About Me
 
-💡 I’m an innovative software developer, automation engineer, and systems architect with expertise in:
-	•	Python Development → Custom tooling, automation, AI, and backend systems.
-  *Linux & Virtualization → Longtime Arch Linux user (since 2004), experienced with Ubuntu, KVM/QEMU, virsh, self-hosted servers, and multi-cloud environments.
-	•	Terminal UI (TUI) Development → Creator of prints_charming, a Pythonic toolkit for enhancing terminal interfaces.
-	•	AI & Machine Learning → Built an 80K+ LOC DeFi bot with an automated ML training pipeline.
+💡 I’m a software developer, automation engineer, and systems architect with expertise in:
+	•	Python Development → Custom tooling, automation, AI/ML, and backend systems.
+  	•	GNU/Linux → Longtime Arch Linux user (Daily driver since 2004), with extensive experience in Ubuntu Server administration, self-hosted infrastructure, and multi-cloud environments.
+   	•	Virtualization → KVM/QEMU Virtualization with VFIO PCI Passthrough.
+    	•	Containerization → Docker-based deployments, containerized automation, and multi-cloud workloads.
+	•	AI & Machine Learning → Built an 80K+ LOC DeFi bot with a fully automated ML training pipeline.
 	•	Automation & DevOps → Self-hosted workflows, Linux automation, and security optimization.
-	•	Cybersecurity & Ethical Hacking → Built security tools and a blockchain authentication system.
-	•	Entrepreneurship & Product Development → Previously ran a cosmetics manufacturing business, handling everything from formulation to branding, marketing, graphic design, b2b and b2c sales, website/ecommerce, and graphic design across the product line.
-
- Operated a data recovery service, performing software and advanced hardware-level repairs for compromised or failing drives/phones.
+	•	Cybersecurity → Built security tools and a blockchain authentication system.
+ 	•	Terminal UI (TUI) Development → Creator of prints_charming, a Pythonic toolkit for creating terminal interfaces and much more!
+	•	Entrepreneurship & Product Development → Previously ran a cosmetics manufacturing business, handling everything from formulation to branding, marketing, graphic design, b2b and b2c sales, and website/ecommerce.
 
 🔬 What I’m Currently Working On
 
@@ -40,14 +40,10 @@ Custom Linux Automation Scripts	Bash & Python scripts for self-hosted automation
 
 📧 Email: dev@deefifo.fun
 
-⚡ Fun Facts About Me
-	•	🖥️ I’ve been using Arch Linux since 2004.
-	•	🎾 I used to be a tennis teaching professional.
-	•	🎣 I enjoy outdoor videography, fly fishing, camping, carpentry, tennis, and golf.
-	•	💡 I have an endless curiosity—constantly exploring loopholes, efficiency hacks, and problem-solving approaches.
 
 💻 Tech Stack
 
 Languages & Frameworks:
+	
 
 🌟 Always building, always learning. Let’s create something amazing together! 🚀
