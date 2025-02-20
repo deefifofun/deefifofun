@@ -1,5 +1,4 @@
 
-👋 Hi, I’m @deefifofun
 
 🚀 About Me
 
@@ -10,13 +9,14 @@
     	•	Containerization → Docker-based deployments, containerized automation, and multi-cloud workloads.
 	•	AI & Machine Learning → Built an 80K+ LOC DeFi bot with a fully automated ML training pipeline.
 	•	Automation & DevOps → Self-hosted workflows, Linux automation, and security optimization.
-	•	Cybersecurity → Built security tools and a blockchain authentication system.
- 	•	Terminal UI (TUI) Development → Creator of prints_charming, a Pythonic toolkit for creating terminal interfaces and much more!
+	•	Cybersecurity → Build security tools and blockchain authentication systems.
+ 	•	Terminal UI (TUI) Development → Creator of prints_charming, a Python toolkit for creating terminal interfaces and much more!
 	•	Entrepreneurship & Product Development → Previously ran a cosmetics manufacturing business, handling everything from formulation to branding, marketing, graphic design, b2b and b2c sales, and website/ecommerce.
 
 🔬 What I’m Currently Working On
 
 🌟 Expanding prints_charming → Enhancing TUI capabilities, automation, and interactive tools.
+⛓️ DeFi Bots 
 🤖 AI & Automation Projects → Training ML models for DeFi, optimization, and analytics.
 📡 Building Efficient Data Pipelines → Automating training, testing, and deployment for AI-driven apps.
 📜 Cybersecurity Research → Exploring authentication security, loopholes, and system exploits.
@@ -39,11 +39,3 @@ Custom Linux Automation Scripts	Bash & Python scripts for self-hosted automation
 📫 How to Reach Me
 
 📧 Email: dev@deefifo.fun
-
-
-💻 Tech Stack
-
-Languages & Frameworks:
-	
-
-🌟 Always building, always learning. Let’s create something amazing together! 🚀
